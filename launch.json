@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Open battery.html",
+            "file": "c:\\Users\\manan\\Downloads\\25W-JavaScript-02-Week13-main\\25W-JavaScript-02-Week13-main\\battery.html"
+        }
+    ]
+}
